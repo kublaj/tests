@@ -1,4 +1,3 @@
-
 {
     "items": [{
         "type": ["h-resume"],
@@ -10,11 +9,11 @@
                 "type": ["h-card"],
                 "properties": {
                     "name": ["MIT"],
-                    "street-address": ["32 Vassar Street"],
-                    "extended-address": ["Room 32-G524"],
-                    "locality": ["Cambridge"],
-                    "region": ["MA"],
-                    "postal-code": ["02139"],
+                    "street-address": ["32 Vassar Street"], 
+                    "extended-address": ["Room 32-G524"], 
+                    "locality": ["Cambridge"], 
+                    "region": ["MA"], 
+                    "postal-code": ["02139"], 
                     "country-name": ["USA"],
                     "tel": ["+1 (617) 253 5702"],
                     "email": ["mailto:timbl@w3.org"]
@@ -25,11 +24,11 @@
         "type": ["h-card"],
         "properties": {
             "name": ["MIT"],
-            "street-address": ["32 Vassar Street"],
-            "extended-address": ["Room 32-G524"],
-            "locality": ["Cambridge"],
-            "region": ["MA"],
-            "postal-code": ["02139"],
+            "street-address": ["32 Vassar Street"], 
+            "extended-address": ["Room 32-G524"], 
+            "locality": ["Cambridge"], 
+            "region": ["MA"], 
+            "postal-code": ["02139"], 
             "country-name": ["USA"],
             "tel": ["+1 (617) 253 5702"],
             "email": ["timbl@w3.org"]

@@ -1,5 +1,4 @@
-
-    {
+{
         "items": [{ 
             "type": ["h-card"],
             "properties": {
@@ -22,4 +21,3 @@
             }
         }]
     }
-
