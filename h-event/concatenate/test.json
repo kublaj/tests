@@ -1,4 +1,5 @@
 {
     "name": "Concatenate multiple datetime elements",
-    "description": "h-event"
+    "description": "h-event",
+    "author": "Glenn Jones"
 }

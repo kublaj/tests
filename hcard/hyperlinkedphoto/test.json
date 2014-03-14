@@ -1,4 +1,5 @@
 {
     "name": "A hyperlinked photo",
-    "description": "hcard"
+    "description": "hcard",
+    "author": "Glenn Jones"
 }

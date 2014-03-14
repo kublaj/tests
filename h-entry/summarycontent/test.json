@@ -1,4 +1,5 @@
 {
     "name": "Entry with summary and content",
-    "description": "h-entry"
+    "description": "h-entry",
+    "author": "Glenn Jones"
 }
